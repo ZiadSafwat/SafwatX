@@ -13,7 +13,7 @@
 - **📈 Excel Export**:  Export device data into an Excel sheet for further analysis.
 - **🔄 State Management**:  Efficient state management using Flutter’s `Provider` package to ensure smooth UI updates.
 ## 📽️ Demo Preview  
-![BriefPDF Demo](preview.gif)
+![BriefPDF Demo](preview.mp4)
 ## Installation
 
 ### Step 1: Set Up the Backend
