@@ -27,7 +27,12 @@ Ensure that your system meets the requirements and all necessary Python packages
     cd SafwatX/backend
     ```
 
-2. Install the required linux packages and Python dependencies:
+2. Make file excutable:
+
+    ```bash
+     chmod +x setup_and_run.sh
+    ```
+3. Install the required linux packages and Python dependencies:
 
     ```bash
     ./setup_and_run.sh
