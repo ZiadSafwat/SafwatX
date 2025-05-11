@@ -15,7 +15,7 @@ SafwatX is a robust, cross-platform Flutter application designed for network man
 ## Screenshots
 
 <!-- Add screenshots of your app -->
-![Dashboard](./website/s1.png)  
+![Dashboard](https://raw.githubusercontent.com/ZiadSafwat/SafwatX/refs/heads/website/s1.png)  
 
 
 ## Installation
