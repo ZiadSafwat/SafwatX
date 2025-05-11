@@ -1,4 +1,4 @@
-# [SafwatX](https://ziadsafwat.github.io/SafwatX/website/) - Network Management App 
+# [SafwatX](https://ziadsafwat.github.io/SafwatX/) - Network Management App 
 
 SafwatX is a robust, cross-platform Flutter application designed for network management and monitoring. It enables users to scan network devices, monitor bandwidth, block/unblock devices using ARP spoofing, and export data for analysis.
 
