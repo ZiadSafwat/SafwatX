@@ -40,7 +40,7 @@ SafwatX is a robust, cross-platform Flutter application designed for network man
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/safwatx.git
+   git clone https://github.com/ZiadSafwat/safwatx.git
    cd safwatx
    ```
 
